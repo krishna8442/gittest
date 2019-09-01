@@ -9,3 +9,5 @@ systemctl enable httpd.service
 echo "Heloo world from $(hostname -f)" > /var/www/html/index.html
 
 hey whatsaup
+
+hey tiktik
